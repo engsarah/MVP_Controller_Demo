@@ -5,5 +5,6 @@ This Demo Implements the following Feature:
 1- Implement MVP + Controller architecure.
 2- Integrate with the backend API using Retrofit Client.
 3- Implement RoomDataBase for Caching data through the app.
+4- Sample Unit test class using Junit.
  
 
